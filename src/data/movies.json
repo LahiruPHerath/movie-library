@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "releaseYear": 2010,
+      "imdbRating": 8.8,
+      "overview": "Inception is a mind-bending thriller that delves into the realm of dreams. Dom Cobb, a skilled thief, specializes in extracting secrets from deep within the subconscious during the dream state. His abilities make him a valuable player in industrial espionage, but they also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: planting an idea into someone's mind, a process known as inception. As Cobb and his team of specialists prepare for their mission, they encounter unforeseen challenges and dangerous adversaries. Inception explores themes of reality, memory, and the power of the mind.",
+      "type": "Sci-Fi, Thriller",
+      "runtime": 148,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "releaseYear": 2008,
+      "imdbRating": 9,
+      "overview": "The Dark Knight is a gripping tale of heroism and sacrifice. Set in Gotham City, the story follows Batman as he faces his greatest adversary, the Joker. The Joker, a criminal mastermind, unleashes chaos and anarchy on the city, pushing Batman to his limits. As the Joker's plans unfold, Batman must grapple with his own morality and the impact of his actions on those around him. The film explores themes of justice, identity, and the thin line between good and evil. With intense action sequences, complex characters, and a thought-provoking narrative, The Dark Knight is a landmark in superhero cinema.",
+      "type": "Action, Crime, Drama",
+      "runtime": 152,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "releaseYear": 2014,
+      "imdbRating": 8.6,
+      "overview": "Interstellar is an epic science fiction adventure that explores humanity's quest for survival. Set in a dystopian future where Earth is facing ecological collapse, the film follows a group of astronauts led by Cooper, a former pilot. Their mission is to travel through a wormhole near Saturn in search of a new habitable planet. As they journey across space and time, they encounter extraordinary phenomena and face profound moral dilemmas. Interstellar delves into themes of love, sacrifice, and the boundless possibilities of the universe. With stunning visuals, a powerful score, and a deeply emotional story, it is a cinematic masterpiece.",
+      "type": "Adventure, Drama, Sci-Fi",
+      "runtime": 169,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "releaseYear": 1994,
+      "imdbRating": 9.3,
+      "overview": "The Shawshank Redemption is a poignant drama about hope and resilience. The film follows Andy Dufresne, a banker wrongly convicted of murder, and his experiences in Shawshank State Penitentiary. Despite the harsh conditions, Andy forms a deep friendship with fellow inmate Red. Through acts of kindness, ingenuity, and determination, Andy brings a sense of purpose and dignity to the prison. The story spans decades, highlighting the injustices of the prison system and the enduring human spirit. With powerful performances, a compelling narrative, and themes of redemption and friendship, The Shawshank Redemption is a timeless classic.",
+      "type": "Drama",
+      "runtime": 142,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "releaseYear": 1994,
+      "imdbRating": 8.9,
+      "overview": "Pulp Fiction is a groundbreaking film that weaves together multiple interconnected stories. The narrative follows a diverse cast of characters, including hitmen, a boxer, a gangster, and his wife. Through a series of non-linear vignettes, the film explores themes of crime, violence, and redemption. With its sharp dialogue, iconic scenes, and eclectic soundtrack, Pulp Fiction redefined the crime genre. The film's structure and style have influenced countless movies and remain a cultural touchstone. Each storyline is filled with tension, dark humor, and unexpected twists, making Pulp Fiction a captivating and unforgettable cinematic experience.",
+      "type": "Crime, Drama",
+      "runtime": 154,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "releaseYear": 1972,
+      "imdbRating": 9.2,
+      "overview": "The Godfather is an epic tale of family, power, and betrayal. The story centers on the Corleone crime family, led by patriarch Vito Corleone. As Vito's youngest son, Michael, reluctantly joins the family business, he rises to power and transforms into a ruthless mafia boss. The film explores themes of loyalty, ambition, and the corrupting influence of power. With its masterful storytelling, complex characters, and iconic performances, The Godfather is widely regarded as one of the greatest films ever made. The film's impact on cinema and popular culture is immeasurable, making it a timeless masterpiece.",
+      "type": "Crime, Drama",
+      "runtime": 175,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "releaseYear": 1999,
+      "imdbRating": 8.7,
+      "overview": "The Matrix is a revolutionary science fiction film that challenges perceptions of reality. The story follows Neo, a hacker who discovers that the world he knows is a simulated reality created by intelligent machines. With the help of rebels led by Morpheus and Trinity, Neo learns to harness his abilities and fight against the machine overlords. The film explores philosophical themes of free will, reality, and human existence. Known for its groundbreaking special effects, including the iconic bullet-dodging scene, The Matrix has left a lasting impact on the genre. Its innovative storytelling and visual style continue to influence filmmakers.",
+      "type": "Action, Sci-Fi",
+      "runtime": 136,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "releaseYear": 1994,
+      "imdbRating": 8.8,
+      "overview": "Forrest Gump is a heartwarming tale that chronicles the extraordinary life of an ordinary man. Forrest, a kind-hearted and simple man, unwittingly influences historical events throughout the decades. Despite his low IQ, Forrest achieves remarkable success in various endeavors, from college football to war heroism, and even business. The film explores themes of destiny, love, and perseverance. Through his journey, Forrest's unwavering optimism and innocence touch the lives of those around him. With its memorable quotes, emotional depth, and Tom Hanks' iconic performance, Forrest Gump is a beloved classic that resonates with audiences of all ages.",
+      "type": "Drama, Romance",
+      "runtime": 142,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "releaseYear": 1999,
+      "imdbRating": 8.8,
+      "overview": "Fight Club is a provocative film that delves into the psyche of modern man. The story follows an unnamed narrator who suffers from insomnia and dissatisfaction with his life. He forms an underground fight club with the enigmatic Tyler Durden, where men can express their primal aggression. As the club evolves into a radical anarchist movement, the narrator grapples with identity, consumerism, and self-destruction. The film's dark humor, philosophical themes, and plot twists challenge societal norms and conventions. Fight Club's impact on popular culture and its exploration of existential angst make it a cult classic.",
+      "type": "Drama",
+      "runtime": 139,
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "director": "Peter Jackson",
+      "releaseYear": 2001,
+      "imdbRating": 8.8,
+      "overview": "The Fellowship of the Ring is the first installment in the epic fantasy trilogy based on J.R.R. Tolkien's novels. The story follows Frodo Baggins, a hobbit who inherits a powerful and dangerous ring. With the help of a diverse group of companions, including Gandalf the wizard, Aragorn the ranger, and Legolas the elf, Frodo embarks on a perilous journey to destroy the ring and thwart the dark lord Sauron's plans for domination. The film's rich world-building, breathtaking visuals, and compelling characters bring Tolkien's vision to life. The Fellowship of the Ring is a landmark in fantasy cinema, setting the stage for an unforgettable saga.",
+      "type": "Adventure, Drama, Fantasy",
+      "runtime": "178",
+      "language": "English",
+      "photo": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}
