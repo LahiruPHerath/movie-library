@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moviereview-dev-77df7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::897729104330:role/amplify-moviereview-dev-77df7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::897729104330:role/amplify-moviereview-dev-77df7-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-moviereview-dev-77df7-deployment",
+      "UnauthRoleName": "amplify-moviereview-dev-77df7-unauthRole",
+      "StackName": "amplify-moviereview-dev-77df7",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:897729104330:stack/amplify-moviereview-dev-77df7/0e026460-db27-11ef-97e5-026498d0c595",
+      "AmplifyAppId": "d19jpuxhu23tip"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}

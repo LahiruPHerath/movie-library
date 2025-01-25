@@ -23,6 +23,7 @@ const App = () => {
           loader={movieLoader}
         />
         <Route path="/add-movie" element={<AddMovie />} />
+
         <Route
           path="/edit-movie/:id"
           element={<EditMovie />}
